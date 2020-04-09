@@ -69,6 +69,6 @@ l1 = [34, 46, 12, 67, 38, 27]
 
 sum = 0
 for num in l1:
-    sum += num
+    sum += num # sum = sum + num
 
 print("Sum:", sum)
